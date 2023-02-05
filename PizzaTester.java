@@ -1,10 +1,3 @@
-/**This is a program called PizzaTester used to create new pizzas from the Pizza class
- *
- * @author Okemawo Aniyikaiye Obadofin
- *
- * On my honor, as a Carnegie-Mellon Africa student, I have neither given nor received unauthorized assistance on this work.
- */
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
