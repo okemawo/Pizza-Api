@@ -1,10 +1,3 @@
-/**This is a class called "Pizza", used to create a new pizza for a customer
- *
- * @author Okemawo Aniyikaiye Obadofin
- *
- * On my honor, as a Carnegie-Mellon Africa student, I have neither given nor received unauthorized assistance on this work.
- */
-
 import java.util.Random;
 
 
