@@ -1,10 +1,3 @@
-/**This is an enum class called "MeatChoice".
- *
- * @author Okemawo Aniyikaiye Obadofin
- *
- * On my honor, as a Carnegie-Mellon Africa student, I have neither given nor received unauthorized assistance on this work.
- */
-
 public enum MeatChoice
 {
     // Enum constants and their String linkages
