@@ -4,7 +4,6 @@
 
 ## Name : Pizza API
 ## Author : Okemawo Aniyikaiye Obaodfin (OAO)
-## Date : 19th November 2022
 #### Description : This is a small Java application that aims to mimic the API used by pizza houses to take orders from customers 
 
 #### Build Instructions : After copying the C file to your terminal, use the "make" command to compile the c programs and generate a 'plaidsh' executable file. Run the executable to initialze the shell. Alternatively, an already generated plaidsh executable can be found in this repository and ran directly without the need for calling "make". 
